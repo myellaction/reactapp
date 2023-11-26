@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactapp/static/css/main.61658f36.css",
+    "main.js": "/reactapp/static/js/main.171b1e01.js",
+    "static/media/items-bg.png": "/reactapp/static/media/items-bg.2789623e157473e4342a.png",
+    "static/media/main-background.png": "/reactapp/static/media/main-background.e970ec05f1c2c9cb2c2e.png",
+    "static/media/pleasure-image.png": "/reactapp/static/media/pleasure-image.53e8960521f177b3f221.png",
+    "static/media/menu-background.png": "/reactapp/static/media/menu-background.69b5f4460c8dede57436.png",
+    "static/media/about-item.jpg": "/reactapp/static/media/about-item.b9403628544ae76ac2fa.jpg",
+    "static/media/girl-coffee.jpg": "/reactapp/static/media/girl-coffee.b409eaa4aaffb291bdc7.jpg",
+    "static/media/coffee-cup.png": "/reactapp/static/media/coffee-cup.2aae63680305b600856e.png",
+    "static/media/item3.png": "/reactapp/static/media/item3.dcb91dcba4b6b965f048.png",
+    "static/media/item1.png": "/reactapp/static/media/item1.93b7ca5e4837fd856f71.png",
+    "static/media/item2.png": "/reactapp/static/media/item2.eac7a0065dc6e158d889.png",
+    "index.html": "/reactapp/index.html",
+    "main.61658f36.css.map": "/reactapp/static/css/main.61658f36.css.map",
+    "main.171b1e01.js.map": "/reactapp/static/js/main.171b1e01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61658f36.css",
+    "static/js/main.171b1e01.js"
+  ]
+}
